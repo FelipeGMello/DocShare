@@ -1,5 +1,6 @@
 # DocShare
 Documentos compartilhados usando Conflict-free Replicated Data Type (CRDT)
+Existe uma apresentação em pdf, usada para apresentar o projeto na faculdade, explicando o conceito de CRDT e apresentando um diagrama de componentes bem mal-feito/incompleto.
 
 # Pipeline
 
@@ -11,5 +12,3 @@ Toda a comunicação é feito usando JSON.
 
 Em geral, o usuário manda o que ele tem para o servidor e, de tempos em tempos, recebe o que outro usuário tem somados com o que ele já tem. 
 Eventualmente, todos os usuários terão a mesma versão do documento.
-
-Existe uma apresentação em pdf, usada para aprensetar o projeto na faculdade, explicando o conceito de CRDT e apresentando um diagrama de componentes bem mal-feito/incompleto.
