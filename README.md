@@ -14,4 +14,4 @@ Em geral, o usuário manda o que ele tem para o servidor e, de tempos em tempos,
 Eventualmente, todos os usuários terão a mesma versão do documento.
 
 ## Observação
-Como eu e meu amigo tivemos pouco tempo e menos conhecimento ainda, tivemos que utilizar IA para nos ajudar com o código. Portanto, estejam avisados, muitas linhas foram feitas por IA.
+Como eu e meu amigo tivemos pouco tempo e menos conhecimento ainda, tivemos que utilizar IA para nos ajudar com o código. Portanto, estejam avisados, muitas linhas foram feitas por IA. Entretanto, a arquitetura foi feita inteiramente por nós.
